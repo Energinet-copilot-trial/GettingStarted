@@ -6,11 +6,20 @@
 
 ## Data set
 
-### Energy Data Service
+### EDS: CO2 emissions
 
-- [CO2 emission](https://www.energidataservice.dk/tso-electricity/CO2Emis) - [sample data](./dataset/CO2Emis.json.zip)
-- [Elspot prices](https://www.energidataservice.dk/tso-electricity/Elspotprices) - [sample data](./dataset/Elspotprices.json.zip)
-- [Private consumption](https://www.energidataservice.dk/tso-electricity/PrivIndustryConsumptionSumHour) - [sample data](./dataset/PrivIndustryConsumptionSumHour.json.zip)
+- [CO2 emissions](./dataset/CO2%20emissions/CO2%20emissions.pdf)
+- [CO2Emis.json.zip](./dataset/CO2%20emissions/CO2Emis.json.zip)
+
+### EDS: EL Spot prices
+
+- [Elspot prices](./dataset/Elspot%20prices/Elspot%20prices.pdf)
+- [Elspotprices.json.zip](./dataset/Elspot%20prices/Elspotprices.json.zip)
+
+### EDS: Private Consumption
+
+- [Private consumption per housing and heating categories and industry consumption by municipality and hour](./dataset/Private%20Consumption/Private%20consumption%20per%20housing%20and%20heating%20categories%20and%20industry%20consumption%20by%20municipality%20and%20hour.pdf)
+- [PrivIndustryConsumptionSumHour.json.zip](./dataset/Private%20Consumption/PrivIndustryConsumptionSumHour.json.zip)
 
 ### Aircraft Wildlife Strikes, 1990-2015
 
@@ -43,8 +52,8 @@
 
 ### Communist-owned forests in Ringkøbing:Skjern
 
-- [10.08.02_Kommunalt_ejede_skove.csv](./dataset/Communist-owned%20forests%20in%20Ringk%C3%B8bing%3ASkjern/10.08.02_Kommunalt_ejede_skove.csv)
 - [Communist-owned forests in Ringkøbing:Skjern](./dataset/Communist-owned%20forests%20in%20Ringk%C3%B8bing%3ASkjern/Communist-owned%20forests%20in%20Ringk%C3%B8bing%3ASkjern.pdf)
+- [10.08.02_Kommunalt_ejede_skove.csv](./dataset/Communist-owned%20forests%20in%20Ringk%C3%B8bing%3ASkjern/10.08.02_Kommunalt_ejede_skove.csv)
 
 ### History of Rock (1950-2020)
 
@@ -58,8 +67,8 @@
 
 ### Men's Shoe Prices
 
-- [7004_1.csv](./dataset/Men's%20Shoe%20Prices/7004_1.csv)
 - [Men's Shoe Prices](./dataset/Men's%20Shoe%20Prices/Men's%20Shoe%20Prices.pdf)
+- [7004_1.csv](./dataset/Men's%20Shoe%20Prices/7004_1.csv)
 
 ### Netflix - TV Shows and Movies
 
@@ -69,8 +78,8 @@
 
 ### Nutrition Facts for McDonald
 
-- [menu.csv](./dataset/Nutrition%20Facts%20for%20McDonald/menu.csv)
 - [Nutrition Facts for McDonald](./dataset/Nutrition%20Facts%20for%20McDonald/Nutrition%20Facts%20for%20McDonald.pdf)
+- [menu.csv](./dataset/Nutrition%20Facts%20for%20McDonald/menu.csv)
 
 ### Public Toilets in Silkeborg Kommune
 
