@@ -52,7 +52,7 @@
 
 ### Communist-owned forests in Ringkøbing:Skjern
 
-- [Communist-owned forests in Ringkøbing:Skjern](./dataset/Communist-owned%20forests%20in%20Ringk%C3%B8bing%3ASkjern/Communist-owned%20forests%20in%20Ringk%C3%B8bing%20Skjern.pdf)
+- [Communist-owned forests in Ringkøbing:Skjern](./dataset/Communist-owned%20forests%20in%20Ringk%C3%B8bing%20Skjern/Communist-owned%20forests%20in%20Ringk%C3%B8bing%20Skjern.pdf)
 - [10.08.02_Kommunalt_ejede_skove.csv](./dataset/Communist-owned%20forests%20in%20Ringk%C3%B8bing%3ASkjern/10.08.02_Kommunalt_ejede_skove.csv)
 
 ### History of Rock (1950-2020)
