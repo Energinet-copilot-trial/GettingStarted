@@ -52,7 +52,7 @@
 
 ### Communist-owned forests in Ringkøbing:Skjern
 
-- [Communist-owned forests in Ringkøbing:Skjern](./dataset/Communist-owned%20forests%20in%20Ringk%C3%B8bing%3ASkjern/Communist-owned%20forests%20in%20Ringk%C3%B8bing%3ASkjern.pdf)
+- [Communist-owned forests in Ringkøbing:Skjern](./dataset/Communist-owned%20forests%20in%20Ringk%C3%B8bing%3ASkjern/Communist-owned%20forests%20in%20Ringk%C3%B8bing%20Skjern.pdf)
 - [10.08.02_Kommunalt_ejede_skove.csv](./dataset/Communist-owned%20forests%20in%20Ringk%C3%B8bing%3ASkjern/10.08.02_Kommunalt_ejede_skove.csv)
 
 ### History of Rock (1950-2020)
@@ -88,7 +88,7 @@
 
 ### The LEGO Parts:Sets:Colors and Inventories of every official LEGO set
 
-- [The LEGO Parts:Sets:Colors and Inventories of every official LEGO set](./dataset/Lego/The%20LEGO%20Parts%3ASets%3AColors%20and%20Inventories%20of%20every%20official%20LEGO%20set.pdf)
+- [The LEGO Parts:Sets:Colors and Inventories of every official LEGO set](./dataset/Lego/The%20LEGO%20Parts%20Sets%20Colors%20and%20Inventories%20of%20every%20official%20LEGO%20set.pdf)
 - [colors.csv](./dataset/Lego/colors.csv)
 - [downloads_schema.png](./dataset/Lego/downloads_schema.png)
 - [inventories.csv](./dataset/Lego/inventories.csv)
